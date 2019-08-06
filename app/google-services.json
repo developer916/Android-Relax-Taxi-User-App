@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1097516512831",
+    "firebase_url": "https://relax-taxi-247219.firebaseio.com",
+    "project_id": "relax-taxi-247219",
+    "storage_bucket": "relax-taxi-247219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097516512831:android:81439f0781d5c420",
+        "android_client_info": {
+          "package_name": "com.tranxit.enterprise.relaxuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097516512831-ocjj40kefjvt4m4k35h2vej8j4ggpifs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tranxit.enterprise.relaxuser",
+            "certificate_hash": "5d26519e6cb4292b2620fe95b900d83bd03f298f"
+          }
+        },
+        {
+          "client_id": "1097516512831-96d6r2ppg4nhfob6crs9o2bao8iqg69l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM1pgBnEPfOB89GegFNz414qoy6yj2x_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097516512831-96d6r2ppg4nhfob6crs9o2bao8iqg69l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
